@@ -116,3 +116,57 @@ See `docs/KITCHEN_LAUNCH_GATE.md`.
 - `artifacts/test-kitchen/v0.3/DAMB_GOOD_LAH_Test_Kitchen_Runbook_v0_3.docx`
 - `artifacts/test-kitchen/v0.3/DAMB_GOOD_LAH_Test_Kitchen_v0_3.xlsx`
 - `models/DAMB_GOOD_LAH_Launch_Economics_v0_2.xlsx`
+
+## Cost-control checkpoint — September 7, 2026
+
+Two new canonical cost-control documents now govern procurement and operating-cost work:
+
+- `docs/HALAL_PROTEIN_PRICING_2026-09-07.md`
+- `docs/COST_BARRIER_MAP_2026-09-07.md`
+
+### Protein finding
+
+A current public US Foods CHEF'STORE listing shows Koch certified-halal boneless skinless chicken thighs at approximately **$2.14/lb** for a 40-lb case. This is a high-priority candidate, **not yet approved**, because exact certifier/HFSAA acceptance must still be established. Halal Foundry remains the clean HFSAA-certified delivered benchmark at **$4.59/lb chicken thigh**, **$6.99/lb shoulder clod**, and **$7.49/lb chuck roll** under its current California delivery program.
+
+Commercial negotiation bands now used internally:
+- chicken thigh: aim for **<= $3.00/lb landed**, excellent at <=$2.50
+- braising beef: aim for **<= $6.25/lb landed**, excellent at <=$5.50
+
+Do not approve a cheap protein source until exact certification/product scope is acceptable to the chosen certifier.
+
+### Ranked remaining cost barriers
+
+The current evidence indicates the major cost risks rank approximately as:
+
+1. **labor + paid kitchen-hour productivity**
+2. **delivery density**
+3. **marketplace commission / payment leakage**
+4. **packaging creep**
+5. **waste, remakes and spoilage**
+6. **shrimp / lap cheong / eggs / oil and other volatile SKUs**
+7. **permits, certification and insurance**
+8. **storage and hidden commissary charges**
+9. **equipment bottlenecks / CKT rework**
+10. **customer-acquisition cost**
+
+At the Snell 20-hour rate, the kitchen itself is approximately **$35.50/hour**. Two workers at San Jose's 2026 minimum wage of $18.45/hour add **$36.90/hour** in direct wages before payroll burden. Combined direct wages + kitchen therefore equal roughly:
+
+- **$7.24/meal at 10 mains/hour**
+- **$4.02/meal at 18/hour**
+- **$3.02/meal at 24/hour**
+- **$2.41/meal at 30/hour**
+
+This reinforces the central economic rule: **do not chase $0.20 ingredient savings while tolerating $2-$4/meal of throughput loss or $3-$4/meal marketplace commission.**
+
+Direct delivery must also be treated as a density problem. Current direct-courier public benchmarks around ~$7-$10/drop can be economically acceptable for 20-50 meal office drops but are generally not acceptable as a restaurant-subsidized cost on a single $11.95 order.
+
+### Immediate cost-work sequence
+
+1. Qualify Koch/CHEF'STORE chicken certification + San Jose stock/price.
+2. Obtain delivered quotes from Modesto Food, Saba, Ar-Raheem and Al Salam.
+3. Obtain real U.S. halal chicken lap-cheong quote.
+4. Quote shrimp by count size and compare portion economics.
+5. Price complete packaging assemblies, not just containers.
+6. Confirm Snell hidden fees/storage/insurance requirements.
+7. Run 10/20/30/50-meal simulations and measure total paid person-hours + paid kitchen hours.
+8. Build direct corporate delivery/ACH flows to minimize courier and payment leakage.
