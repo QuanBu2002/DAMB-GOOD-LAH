@@ -1,6 +1,6 @@
 # DAMB GOOD LAH — Project State — 2026-09-07
 
-## New locked decisions
+## Locked decisions
 
 - Commercial operation is designed to be **fully HALAL**.
 - **No pork** enters commercial inventory or production.
@@ -9,7 +9,7 @@
 - Public certified-HALAL claims wait for certifier approval.
 - Consumer price architecture is intentionally aggressive:
   - Padang Chicken Rice: **$11.95 target**
-  - Dang Good Mee Goreng: **$11.95**
+  - Damb Good Mee Goreng: **$11.95**
   - Nasi Lemak Lah: **$12.95**
   - Padang Dry Curry Mee: **$12.95**
   - Padang Beef Rice: **$14.95**
@@ -24,7 +24,7 @@
 - Padang Chicken Rice
 - Padang Beef Rice
 - Nasi Lemak Lah
-- Dang Good Mee Goreng
+- Damb Good Mee Goreng
 - Padang Dry Curry Mee
 - Char Kway Teow with certified halal chicken lap cheong
 - Roti / roti + Padang dip
@@ -45,7 +45,7 @@ No soups.
 
 ## Economic architecture
 
-The new low prices are feasible only if DAMB GOOD LAH earns them operationally.
+The low prices are feasible only if DAMB GOOD LAH earns them operationally.
 
 Planning targets:
 - Consumer economic productivity: **>=18 main-equivalents / total paid kitchen hour**.
@@ -59,7 +59,7 @@ Planning targets:
 
 Current v0.2 model base loaded production costs at 18 economic mains/hour are approximately:
 - Chicken Rice: $9.0
-- Mee Goreng: $9.1
+- Damb Good Mee Goreng: $9.1
 - Nasi Lemak: $9.6
 - Curry Mee: $9.7
 - Beef Rice: $10.2
@@ -67,16 +67,40 @@ Current v0.2 model base loaded production costs at 18 economic mains/hour are ap
 
 These are planning outputs, not measured costs.
 
-A modeled 20-meal corporate drop at ~$12.75 average realized price currently produces roughly $2.74 contribution per paid meal / ~$55 per drop before fixed overhead. This must be replaced with real catering labor, route, packaging and product-mix data.
-
 ## HALAL hard gates before lease / public claim
 
 1. Choose a certifier and preflight the exact kitchen arrangement.
 2. Verify halal chicken and beef suppliers + documentation.
-3. Source multiple existing certified halal chicken lap cheong candidates and confirm U.S. distribution / certifier acceptance.
+3. Source existing certified halal chicken lap cheong and confirm U.S. distribution / certifier acceptance.
 4. Review belacan, fish sauce, soy sauces, kecap, frying oil, ghee and other processed SKUs.
 5. Document receiving, storage, labeling, utensils, fryer/equipment, sanitation and staff training controls.
-6. Confirm shared-kitchen non-halal exposure can satisfy the certifier before signing a long commitment.
+6. Confirm shared-kitchen non-halal exposure can satisfy the certifier before signing a commitment.
+
+## Launch kitchen path — locked pending preflight
+
+### Primary candidate
+**The Commissary — 5475 Snell Ave, San Jose.**
+
+Snell becomes the launch kitchen only if all five gates pass:
+1. HFSAA accepts the exact shared-kitchen HALAL arrangement.
+2. Raw chicken, beef and shrimp production is allowed under our operating permit/process.
+3. Authentic CKT can be produced repeatedly with approved high-output wok equipment.
+4. Weekday lunch production has dependable range/wok, fryer, griddle and prep access.
+5. Written all-in fees/storage/reservation terms remain economically acceptable.
+
+If Snell passes, launch on the **20-hour plan ($710/month + $500 onboarding at current published pricing)**. Use overage hours during ramp. Do not move to unlimited until sustained usage approaches the current economic crossover near ~74 hours/month.
+
+### Backup A
+**iKitchens, San Jose.** Prioritize if Snell fails HALAL segregation or high-output wok configuration.
+
+### Backup B
+**California Cookery, San Jose.** Prioritize if a private/pod arrangement materially improves HALAL segregation or equipment reliability at a reasonable premium.
+
+### Not a launch option
+- CloudKitchens/private ghost-kitchen suites at current expected pricing: too much fixed cost before demand is proven.
+- Raw retail shell / conventional storefront: reject unless existing food infrastructure makes total cost unusually favorable.
+
+See `docs/KITCHEN_LAUNCH_GATE.md`.
 
 ## Employee / cost-saving system
 
@@ -84,7 +108,7 @@ A modeled 20-meal corporate drop at ~$12.75 average realized price currently pro
 - Stagger labor where safe: prep staffing does not automatically equal rush staffing.
 - Team performance bonuses should pay only when throughput + quality + accuracy + waste + food-safety gates all pass.
 - Never reward speed alone.
-- Office-captain rewards should use low product-cost incentives (e.g., organizer meal/roti) after minimum order thresholds rather than broad cash discounting.
+- Office-captain rewards should use low product-cost incentives after minimum order thresholds rather than broad cash discounting.
 - Use AI/automation for legitimate content production, scheduling, CRM and reporting; do not use fake-engagement bots.
 
 ## Current canonical artifacts
