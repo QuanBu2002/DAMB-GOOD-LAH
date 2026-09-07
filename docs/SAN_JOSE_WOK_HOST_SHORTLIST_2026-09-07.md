@@ -2,95 +2,162 @@
 
 ## Objective
 
-Identify San Jose-area restaurants with a high probability of native wok capability plus public service hours that create a meaningful off-hour production window for DAMB GOOD LAH.
+Identify San Jose / near-San-Jose restaurants with a high probability of native wok capability plus public service hours that create a meaningful off-hour production window for DAMB GOOD LAH.
 
-Public dining hours do not prove kitchen-idle hours. Actual prep arrival, receiving, catering, cleaning and landlord/permit constraints must be confirmed directly.
+Public dining hours do not prove kitchen-idle hours. Actual prep arrival, receiving, catering, cleaning, landlord/permit constraints and owner willingness must be confirmed directly.
 
-## Tier A — strongest combined wok + idle-hours leads
+## Important correction — Little Hunan archetype, not active target
 
-### 1. Little Hunan — 1882 Curtner Ave, San Jose
-- Current published hours: dinner only, Mon-Thu 4:30-9:30 PM, Fri-Sat 4:30-10 PM, Sun 4:30-9:30 PM.
-- Menu includes chow mein, multiple fried-rice dishes, beef/shrimp chow fun, Kung Pao, Hunan/Szechuan dishes and broad sauteed seafood/meat offerings.
-- Wok likelihood: **very high**. The menu architecture strongly implies an existing commercial wok line, but the exact burner count/BTU is not publicly confirmed.
-- Potential DAMB window: approximately 7 AM-2 PM daily, subject to actual prep arrival.
-- Why this is the best new lead: all-day public dark window before dinner + Chinese wok-heavy menu.
-- First questions: number/type of wok burners; actual kitchen prep start; hood length; fryer; storage; willingness to execute County rental-kitchen agreement; fixed monthly morning-block price.
+The former Little Hunan at 1882 Curtner Ave is no longer the active dinner-only opportunity originally identified. Current operator Slurp A Bowl now serves lunch Tuesday-Sunday. Preserve Little Hunan only as the economic archetype: a small, independent wok-heavy restaurant whose morning hours were largely dark.
 
-### 2. Tee Nee Thai — 1423 The Alameda, San Jose
+The active search is therefore for the next Little-Hunan-type host.
+
+## Tier A — strongest current combined wok + idle-hours leads
+
+### 1. Tee Nee Thai Cuisine — 1423 The Alameda, San Jose
 - Closed Tuesday.
-- Lunch only Thursday and Friday 11:30 AM-1:30 PM.
-- Dinner every day except Tuesday 4:30-9 PM.
-- Public site also states its poultry is halal certified.
-- Wok likelihood: **high** due to Thai menu/fried rice/basil/stir-fry architecture; exact wok equipment not publicly verified.
-- Potential DAMB windows: strongest on Monday/Wednesday/Saturday/Sunday mornings; Tuesday may offer a full-day opportunity if staff/catering are absent.
-- Why interesting: Asian hot-line compatibility + unusually sparse lunch schedule.
+- Lunch only Thursday and Friday, 11:30 AM-1:30 PM.
+- Dinner every day except Tuesday, 4:30-9:00 PM.
+- Menu includes fried rice, Pad Thai, Pad See Ew, noodles, basil/stir-fry families, seafood and curries.
+- Public site states poultry is halal certified.
+- Wok likelihood: **high**; exact wok count/output not publicly verified.
+- Potential DAMB windows:
+  - Monday daytime before dinner
+  - Tuesday potentially full day
+  - Wednesday daytime before dinner
+  - Saturday/Sunday daytime before dinner, if useful
+- Why this is the strongest current lead: three potentially useful weekday daytime windows + Thai hot-line compatibility + small independent profile.
+- First call: actual staff arrival Mon/Tue/Wed, wok burner count/BTU, hood length, fryer, storage, rental-kitchen agreement, fixed monthly price.
+- Source: https://www.teeneethaisanjose.com/
 
-### 3. Kampai Sushi & Grill — 171 Branham Ln #3, San Jose
-- Tue-Thu dinner only 4:30-9 PM.
-- Fri-Sat lunch 11:30 AM-2:30 PM and dinner 4:30-10 PM; Sunday 12-9 PM.
-- Japanese/Korean BBQ operation.
-- Wok likelihood: **medium**. Serious hot line is likely, but a dedicated wok bank is not established by public evidence.
-- Potential DAMB window: Tue-Thu morning/lunch.
+### 2. China Inn — 1401 The Alameda #10, San Jose
+- Sun / Mon / Sat: 4:30-8:30 PM only.
+- Tue-Fri: 11:30 AM-1:00 PM and 4:30-8:30 PM.
+- Current site describes it as a family-operated mom-and-pop restaurant and customer reviews specifically praise its wok dishes.
+- Menu families include fried rice, noodles and Kung Pao-style dishes.
+- Wok likelihood: **very high**.
+- Potential DAMB window:
+  - Monday is the strongest recurring corporate-lunch pilot day.
+  - Tue-Fri early-morning prep may be possible but conflicts with their lunch service.
+  - Weekend daytime blocks could support R&D / catering.
+- Why interesting: tiny independent Chinese operator + explicit wok evidence + strong location near Santa Clara / central San Jose.
+- Source: https://www.chinainnsanjose.com/
 
-## Tier B — definite/very likely wok kitchens but weaker idle-hour fit
+### 3. Elements — 6471-10 Almaden Expy, San Jose
+- Tue-Sat: dinner only 4:30-9:00 PM.
+- Sun/Mon closed.
+- Euro-Asian / Vietnamese-influenced menu; catering and private-event capability.
+- Menu includes fried soft-shell crab, egg rolls, satay and other Asian hot-line items.
+- Wok likelihood: **medium / unconfirmed**. This is not a native-wok assumption.
+- Potential DAMB window: Tue-Fri/Sat daytime, subject to prep arrival.
+- Why interesting: clean dinner-only schedule and an owner/operator already accustomed to catering.
+- Source: https://sanjoseelements.com/
 
-### Big Fish Chinese Cafe — 1659 Branham Ln
-- Lunch daily 11-2:30; dinner 4-8:30.
-- Chinese/Korean-Chinese menu; likely commercial wok line.
-- Weakness: only a short mid-afternoon gap, so poor fit for our main lunch-production model.
+### 4. House of Genji — 1335 N 1st St, San Jose
+- Closed for lunch.
+- Mon-Thu dinner starts 5 PM; Fri 5 PM; Sat/Sun 4:30 PM.
+- Large established Japanese steakhouse / teppanyaki operation.
+- Wok likelihood: **low-medium**; teppan infrastructure is confirmed conceptually, dedicated wok is not.
+- Potential DAMB window: weekday morning/lunch.
+- Why interesting: unusually clean dinner-only schedule in North San Jose, geographically excellent for corporate drops.
+- Weakness: equipment may be optimized for teppan rather than wok.
+- Source: https://www.houseofgenjisanjose.net/
 
-### China Delight — 5813 Cottle Rd
-- Mon-Fri lunch 11-2:30 and dinner 4:30-9; weekends 12-9.
-- Large Chinese menu, catering/banquet, wok likelihood very high.
-- Weakness: public lunch service occupies our preferred production window.
+### 5. Yuki Sushi — Willow Glen — 1140 Lincoln Ave #8, San Jose
+- Dinner only Tue-Sun from 4:30 PM; Monday closed.
+- Wok likelihood: **low-medium**; Japanese hot line but no public proof of dedicated wok.
+- Potential DAMB window: Tue-Fri morning/lunch.
+- Why interesting: independent long-running operator and very clean dark-hours pattern.
+- Source: https://yukisushi.com/contact/
 
-### Soong Soong — 3680 Stevens Creek Blvd
-- Published lunch + dinner most days; closed Wednesdays.
-- Broad Chinese menu and catering.
-- Wok likelihood very high.
-- Opportunity: Wednesday-only or potentially pre-lunch early-morning block; verify current hours because the public page is older.
+## Tier A2 — high native-wok probability but only selected-day opportunities
 
-## Tier C — useful control / non-wok dinner-only kitchens
+### Thai Orchid — 866 E Campbell Ave, Campbell
+- Closed Sunday and Monday.
+- Tue-Thu lunch + dinner.
+- Friday and Saturday **dinner only** from 4:30 PM.
+- Wok likelihood: **high** from Thai stir-fry/noodle architecture.
+- Potential DAMB opportunity:
+  - Monday full-day pilot if operator is open to rental on closed day.
+  - Friday daytime before dinner.
+- Source: https://www.eatthaiorchid.com/
 
-### Adega — 1614 Alum Rock Ave
-- Dinner only Wed-Sun from 5 PM; closed Monday/Tuesday.
-- Excellent idle-hours pattern but Portuguese tasting-menu kitchen, so native wok likelihood low.
-- Useful as a comparison if it offers superior rent/layout and permits an approved wok retrofit.
+### Dusita Thai Cuisine — 2325 El Camino Real, Santa Clara
+- Mon-Fri lunch + dinner.
+- Saturday dinner only from 5 PM.
+- Sunday closed.
+- Wok likelihood: **high**.
+- Useful mainly for weekend production / R&D, not weekday corporate lunch.
+- Source: https://dusitathaicuisine.com/
 
-### Shabu Time — 171 Jackson St
-- Mon-Thu 4:30-10 PM; Fri-Sun noon-10 PM.
-- Great weekday morning/lunch dark window.
-- Native wok likelihood low-medium; hot-pot infrastructure may not translate to CKT.
+### Thai Chili Cuisine — 1550 Halford Ave, Santa Clara
+- Thai menu includes Pad See Ew, fried rice, Pad Thai, sizzling dishes and stir-fry families.
+- Current third-party hours indicate Saturday dinner-only; most weekdays include lunch.
+- Wok likelihood: **high**.
+- Weak weekday fit, but viable weekend test host.
 
-## Ranking logic
+## Tier B — dinner-only Asian-capable kitchens with uncertain host practicality
 
-For DAMB GOOD LAH, prioritize:
-1. actual wok burner capability / BTU recovery;
-2. 7 AM-2 PM recurring access;
-3. owner willingness to sign a County rental-kitchen agreement;
-4. dedicated storage;
-5. fryer + range + prep/packing space;
-6. fixed monthly economics;
-7. sanitation/reset and certifier acceptance.
+### BarLucy / Asia Live — Westfield Valley Fair, Santa Clara
+- BarLucy public service begins 5 PM daily.
+- Asia Live describes dedicated open kitchens and specialized Asian cooking stations.
+- Wok capability probability: **high somewhere in the broader Asia Live operation**, but exact access for BarLucy is unknown.
+- Weaknesses: large operator, mall constraints, likely complex landlord/security/insurance approval, and the broader Asia Live kitchens may be active during daytime even when BarLucy is not.
+- Keep as a high-capability / low-probability exploratory lead.
+- Sources: https://asialivesv.com/ and https://www.opentable.com/r/bar-lucy-santa-clara
 
-Prior pork/non-halal use is not itself a ranking penalty; DAMB GOOD LAH assumes a rigorous documented sanitation/reset process. The exact HALAL certification implications still require certifier acceptance of the final arrangement.
+## Tier C — useful control / retrofit candidates
 
-## First outreach order
+### ADEGA — 1614 Alum Rock Ave, San Jose
+- Dinner only Wed-Sun from 5 PM; Monday/Tuesday closed.
+- Excellent dark-hours pattern.
+- Native wok likelihood low.
+- Potential value only if hood/gas capacity permits our own approved wok burner and the operator is receptive.
 
-1. **Little Hunan**
-2. **Tee Nee Thai**
-3. **Kampai Sushi & Grill**
-4. **Soong Soong** (especially Wednesday)
-5. **Big Fish Chinese Cafe** only if a non-lunch or prep-only arrangement becomes relevant
+### SP2 — 72 N Almaden Ave, San Jose
+- Closed Monday/Tuesday; Wed-Sat opens 4:30 PM; Sunday opens 3 PM.
+- New American rather than wok-native.
+- Useful as a large dark-hours retrofit comparison, not a first-call wok lead.
 
-## First-call wording
+## Pilot strategy
 
-Ask whether they would consider a recurring morning/lunch kitchen-use agreement for a separately permitted and insured Malaysian catering/office-lunch operation. Emphasize:
+Do not require a five-day host on day one.
+
+A practical proof sequence could be:
+1. **Tee Nee Thai** — attempt Mon/Tue/Wed daytime block.
+2. **China Inn** — test Monday-only Chinese-wok production if Tee Nee declines or as direct equipment benchmark.
+3. **Elements / House of Genji / Yuki Willow Glen** — pursue broader Tue-Fri daytime access if wok installation/adaptation is feasible.
+4. **Thai Orchid** — Monday closed-day fallback / R&D day.
+
+The first objective is to prove that an off-hour host arrangement can deliver:
+- real wok heat and recovery;
+- 20-30 meal batch production;
+- clean prep-to-pack flow;
+- predictable reset time;
+- storage compatibility;
+- a fixed monthly cost materially below equivalent commissary economics.
+
+## First-call questions
+
+1. Do you have one or more commercial wok burners / wok wells? What make/model or BTU if known?
+2. What time does kitchen staff actually arrive on the target days?
+3. Is the kitchen used for catering or prep while the dining room is closed?
+4. Would ownership consider a recurring off-hour kitchen-use agreement for a separately permitted and insured food business?
+5. Would ownership execute Santa Clara County rental-kitchen paperwork if required?
+6. Can DAMB GOOD LAH have dedicated labeled fridge/freezer/dry storage?
+7. Can we use or maintain dedicated woks, pans, utensils and cutting boards?
+8. Is a fryer available? Can oil be changed/reset as needed?
+9. How much prep-table and packing space is available?
+10. What fixed monthly payment would make the arrangement worthwhile?
+
+## Negotiation framework
+
+Do not lead with hourly rent. Sell dead-hour monetization:
+- fixed recurring block;
+- fixed monthly payment;
 - no dining-room use required;
-- DAMB GOOD LAH leaves before their prep/service deadline;
-- own staff/ingredients/smallwares;
-- defined sanitation/reset;
-- fixed monthly payment for otherwise underused hours;
-- County-approved rental-kitchen paperwork.
+- our own labor/food/insurance;
+- documented sanitation/reset;
+- leave before their operating crew needs the line.
 
-Do not lead with a price before learning their interest and actual available window.
+Initial economic target remains roughly **$750-$1,500/month** depending on number of weekdays, storage and equipment access, with a preference for a 60-day pilot before a larger commitment.
