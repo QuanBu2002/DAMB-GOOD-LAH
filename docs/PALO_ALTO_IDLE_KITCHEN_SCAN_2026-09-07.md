@@ -14,28 +14,53 @@ Reasons:
 1. DAMB GOOD LAH's primary economic lane remains corporate lunch / office drops.
 2. Several Palo Alto-area restaurants do not open to the public until 4–5 PM, creating a potentially usable morning window.
 3. Breakfast/lunch cafes close early but may lack wok/fryer/hood capacity.
-4. Breakfast kitchens frequently handle bacon/pork; that may create a worse HALAL segregation problem than a generic shared commissary.
-5. A vegan/vegetarian dinner-only kitchen may be unusually attractive if the operator is willing to permit halal meat production under dedicated controls.
+4. **Prior pork/non-halal use by the host is not, by itself, a major ranking penalty.** DAMB GOOD LAH will plan for an extensive documented sanitation/reset protocol before use and dedicated storage/smallwares where required.
+5. Final HALAL certification feasibility still depends on the chosen certifier accepting the exact shared-equipment and sanitation controls; do not assume cleaning alone satisfies certification until that is confirmed.
+
+## Revised host-kitchen ranking logic
+
+Rank candidates primarily by:
+1. recurring idle production window that fits 7 AM–2 PM lunch production;
+2. hot-line capability: hood length, burner output, wok feasibility, range, fryer/griddle;
+3. prep-table + packing-line space;
+4. dedicated fridge/freezer/dry storage;
+5. owner willingness to execute a formal rental-kitchen agreement;
+6. price and reliability of recurring access;
+7. sanitation/reset feasibility and certifier acceptance.
+
+Do **not** automatically demote a kitchen because the host uses pork or non-halal meat when DAMB GOOD LAH is not present. Evaluate whether the facility can be reset to the required sanitation standard and whether any specific shared equipment (especially fryer oil, grills, woks, or porous/damaged surfaces) needs dedicated controls.
 
 ## Tier A — strongest lunch-host schedule candidates
-
-### Tane Vegan Izakaya — 461 Emerson St, Palo Alto
-- Public hours: Tue–Thu 5:00–9:30 PM; Fri–Sat 4:30–10:00 PM; Sun 5:00–9:30 PM; Mon closed.
-- Why interesting: dinner-only + fully vegan operation materially reduces non-halal meat contamination risk.
-- Unknowns: whether ownership would permit outside halal meat in a vegan kitchen; actual hood/fryer/rice/wok infrastructure; daytime prep schedule.
-- Decision: high-priority exploratory call because HALAL compatibility is unusually favorable if philosophical/brand concerns can be resolved.
 
 ### St. Michael's Alley — 140 Homer Ave, Palo Alto
 - Public hours: Tue–Sun from 5:00 PM; Mon closed.
 - Why interesting: long morning/daytime public dark window, established full-service kitchen, private-event capability.
-- Unknowns: daytime prep hours; pork/non-halal menu exposure; hood/wok/fryer capacity; operator willingness.
-- Decision: high-priority host inquiry after HALAL preflight framework is clear.
+- Unknowns: daytime prep hours; hood/wok/fryer capacity; operator willingness; sanitation/reset logistics.
+- Decision: high-priority host inquiry.
 
 ### Sekoya — 417 California Ave, Palo Alto
 - Public hours: Mon–Thu 5:00–9:00 PM; Fri–Sat 4:00–10:00 PM; Sun closed.
 - Why interesting: no lunch service; modern full-service dinner restaurant; private/group events.
-- Unknowns: actual daytime kitchen occupancy, non-halal exposure, wok capability, rental openness.
-- Decision: strong schedule fit; medium HALAL fit pending segregation.
+- Unknowns: actual daytime kitchen occupancy, wok capability, storage, rental openness.
+- Decision: strong schedule fit.
+
+### Flea Street — 3607 Alameda de las Pulgas, Menlo Park
+- Public dining: Tue–Sat from 5:00 PM; Sun–Mon closed.
+- Why interesting: no lunch; two closed days; established independent restaurant.
+- Unknowns: kitchen prep schedule, equipment, storage, rental interest.
+- Decision: attractive schedule and independent-owner profile make it worth direct inquiry.
+
+### Zola + BarZola — 585 Bryant St, Palo Alto
+- Public bar service begins around 4 PM; dinner around 5 PM Mon–Sat.
+- Why interesting: no public lunch service; potential morning/lunch production window.
+- Unknowns: prep start, kitchen sharing willingness, exact hot-line configuration.
+- Decision: worth inclusion in first outreach wave.
+
+### Tane Vegan Izakaya — 461 Emerson St, Palo Alto
+- Public hours: Tue–Thu 5:00–9:30 PM; Fri–Sat 4:30–10:00 PM; Sun 5:00–9:30 PM; Mon closed.
+- Why interesting: dinner-only with potentially useful morning/lunch window.
+- Unknowns: whether ownership would permit an outside halal-meat concept in a vegan kitchen; actual hood/fryer/rice/wok infrastructure; daytime prep schedule.
+- Decision: still worth an exploratory call, but no longer ranked above stronger conventional full-service kitchens solely because it is vegan.
 
 ### Protégé — 250 California Ave, Palo Alto
 - Public hours: Tue–Sat 5:00–9:15 PM; Sun–Mon closed.
@@ -43,23 +68,11 @@ Reasons:
 - Weakness: fine-dining kitchens often begin prep many hours before service; brand/operator may be protective of kitchen use.
 - Decision: schedule fit excellent, practical probability lower than owner-operated casual venues.
 
-### Zola + BarZola — 585 Bryant St, Palo Alto
-- Public bar service begins around 4 PM; dinner around 5 PM Mon–Sat.
-- Why interesting: no public lunch service; potential morning/lunch production window.
-- Unknowns: prep start, non-halal exposure, kitchen sharing willingness.
-- Decision: worth inclusion in first outreach wave after stronger candidates.
-
 ### Selby's — 3001 El Camino Real, Atherton
 - Public hours: nightly 5:00–9:00 PM.
 - Why interesting: very large morning dark-service window and serious full-service infrastructure likely.
 - Weakness: high-end operation likely conducts substantial daytime prep and may have low appetite for shared production.
 - Decision: low-probability/high-capability exploratory candidate.
-
-### Flea Street — 3607 Alameda de las Pulgas, Menlo Park
-- Public dining: Tue–Sat from 5:00 PM; Sun–Mon closed.
-- Why interesting: no lunch; two closed days; established independent restaurant.
-- Unknowns: kitchen prep schedule, equipment, non-halal handling, rental interest.
-- Decision: attractive schedule and independent-owner profile make it worth direct inquiry.
 
 ## Tier B — dinner-host candidates
 
@@ -69,19 +82,19 @@ These are useful if DAMB GOOD LAH later wants a consumer dinner lane, but they a
 - Mon closed; Tue–Fri 8:00 AM–2:00 PM; weekends to 2:30 PM.
 - Strong evening vacancy.
 - Likely breakfast-line griddle/range infrastructure, but wok output unknown.
-- Major HALAL concern: breakfast kitchens commonly use pork/bacon; exact equipment segregation would need certifier approval.
+- Prior bacon/pork use is **not** an automatic exclusion; evaluate sanitation/reset, fryer strategy, storage, and certifier acceptance.
 
 ### Joanie's Cafe — 405 California Ave
 - Daily 8:00 AM–2:00 PM.
 - Strong evening vacancy.
 - Breakfast/brunch kitchen likely supports griddle/range work; CKT setup unknown.
-- Same pork/bacon segregation concern.
+- Prior pork use is not an automatic exclusion; equipment capability remains the bigger unknown.
 
 ### Fambrini's Cafe — 2500 El Camino Real
 - Mon–Fri 9:30 AM–3:00 PM; weekends 10:00 AM–3:00 PM.
 - Publicly caters, which may make an operator-to-operator conversation more natural.
 - Dinner window starts later than Joanie's/Hobee's but remains usable.
-- Equipment + HALAL segregation unknown.
+- Equipment/storage/reset logistics unknown.
 
 ### Palo Alto Cafe — 2675 Middlefield Rd
 - Daily 6:30 AM–5:00 PM.
@@ -93,19 +106,6 @@ These are useful if DAMB GOOD LAH later wants a consumer dinner lane, but they a
 - Strong weekday evening vacancy and explicit catering capability.
 - Potentially useful as an off-hour production host, but exact hot-line and wok equipment are unknown.
 
-## HALAL-first alternative host strategy
-
-A restaurant's idle hours are not enough. Preferred host sequence:
-1. halal-certified / fully halal kitchen with idle hours;
-2. vegan/vegetarian kitchen with acceptable owner/certifier controls;
-3. seafood-focused / low-pork kitchen with separable equipment;
-4. generic restaurant with dedicated storage/smallwares/fryer/wok and certifier-approved sanitation reset;
-5. bacon-heavy breakfast kitchen only if certifier explicitly accepts controls.
-
-### Notable HALAL-compatible lead
-
-Tane Vegan Izakaya is the most interesting new lead because it combines dinner-only hours with a plant-based operation. It is not assumed to accept meat or third-party operators; operator philosophy may make the idea unacceptable. But from a contamination-control perspective it deserves early investigation.
-
 ## Proposed operating windows to pitch
 
 ### Lunch-host pitch
@@ -114,6 +114,7 @@ Tane Vegan Izakaya is the most interesting new lead because it combines dinner-o
 - DAMB GOOD LAH supplies own staff, ingredients, insurance, smallwares and sanitation SOPs
 - dedicated labeled cold/dry storage requested
 - hot-line requirement: two wok positions or approved high-output burners, range, fryer, rice-cooker power, prep/packing space
+- complete documented pre-use sanitation/reset as required
 - vacate/reset kitchen before host's dinner prep/service deadline
 
 ### Dinner-host pitch
@@ -126,13 +127,13 @@ A separate DAMB GOOD LAH operation cannot simply use another restaurant informal
 
 Do not confuse the County's "host facility" consumer-service permit with using a restaurant as the production kitchen. For our production model, the rental-kitchen/catering-permit pathway is the relevant starting point unless DEH instructs otherwise.
 
-## First outreach wave
+## First outreach wave — revised
 
-1. Tane Vegan Izakaya — test owner openness + equipment + meat policy.
-2. St. Michael's Alley — test 7 AM–2 PM availability and equipment.
-3. Sekoya — same.
-4. Flea Street — same; independent ownership may improve negotiating odds.
-5. Zola + BarZola.
+1. St. Michael's Alley — test 7 AM–2 PM availability, actual prep start, equipment, storage and price.
+2. Sekoya — same.
+3. Flea Street — same; independent ownership may improve negotiating odds.
+4. Zola + BarZola.
+5. Tane Vegan Izakaya — test owner openness + equipment + meat policy.
 6. Protégé / Selby's only after the proposition is sharpened.
 
 Parallel dinner-host exploratory wave: Fambrini's, Hobee's, Joanie's, Counter Point.
@@ -142,10 +143,10 @@ Parallel dinner-host exploratory wave: Fambrini's, Hobee's, Joanie's, Counter Po
 1. When does kitchen staff actually arrive for prep, not just when dining opens?
 2. Is the kitchen owner willing to execute a County rental-kitchen agreement?
 3. Can a separate permitted/insured food business operate during off-hours?
-4. What pork/non-halal meat is handled and on what equipment?
+4. Can DAMB GOOD LAH perform a documented pre-use sanitation/reset before production?
 5. Can we have dedicated labeled fridge/freezer/dry storage?
-6. Can we keep dedicated wok, pans, utensils, cutting boards and hotel pans?
-7. Fryer: shared oil, dedicated oil, or dedicated fryer possible?
+6. Can we keep dedicated wok, pans, utensils, cutting boards and hotel pans where required?
+7. Fryer: can we use a dedicated oil batch or dedicated fryer lane if required?
 8. Hood length and available hot-line positions.
 9. Strongest burner output; wok ring/wok range availability or permission to install/bring approved equipment.
 10. Prep-table and packing-line space.
@@ -163,6 +164,6 @@ Do not lead with hourly rental. Offer predictable dead-hour monetization:
 - no customer seating required
 - no use during host's prime service
 - our own labor/food/insurance
-- defined cleaning/reset responsibility
+- defined pre-use and post-use cleaning/reset responsibility
 
 Target: beat the all-in value of formal commissary use while gaining more reliable equipment access and better geographic proximity to Palo Alto/Stanford corporate demand.
