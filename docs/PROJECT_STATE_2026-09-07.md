@@ -42,6 +42,7 @@ No soups.
 3. One memorable texture/extra remains attached to each launch dish.
 4. CKT remains a high-heat facility gate; the food is not simplified to compensate for weak equipment.
 5. Delivery testing remains part of recipe development.
+6. **Shrimp-shell flavor extraction is a deferred recipe-universe concept, not a Day-1 operating requirement.** When the broader recipe universe is developed, test shells for shrimp oil, stock, sambal/curry bases or other secondary-use flavor systems. Do not count shell recovery as launch food-cost savings until actual yield, labor, food-safety, storage and sensory value are measured.
 
 ## Economic architecture
 
