@@ -9,9 +9,9 @@ Canonical binary artifacts prepared from the September 6-7, 2026 development wor
 | `artifacts/test-kitchen/v0.2/DAMB_GOOD_LAH_Test_Kitchen_Runbook_v0_2.docx` | `a8dc55c2345d776a53a4166487b746d83d2e5ae235a77d9ddcbbdc287ceaa54d` | Historical expanded v0.2 culinary/ops source |
 | `artifacts/test-kitchen/v0.2/DAMB_GOOD_LAH_Test_Kitchen_v0_2.xlsx` | `ea1d01c5d3c238b79e3184cdae15e6dbbf9c7b3aebe7fccfdf08d95b623c9607` | Historical expanded v0.2 workbook |
 | `artifacts/test-kitchen/v0.3/DAMB_GOOD_LAH_Test_Kitchen_Runbook_v0_3.docx` | `f33c483b29e9164c1ab279fe9c4a297b4b11edee2009a093b25ae2164541838b` | Current HALAL/value/corporate canonical runbook |
-| `artifacts/test-kitchen/v0.3/DAMB_GOOD_LAH_Test_Kitchen_v0_3.xlsx` | `e3b20fa950bd4d0e879dd797562fcc44253d31976d8cd131d690411f34187c3f` | Current HALAL sourcing + launch test workbook |
+| `artifacts/test-kitchen/v0.3/DAMB_GOOD_LAH_Test_Kitchen_v0_3.xlsx` | `e94e311e7619842012ac8bdfe8fead67a35294b5653fcb75c4fb3b573c31062c` | Current HALAL sourcing + launch test workbook; includes Bay Area supplier/facility leads |
 | `models/DAMB_GOOD_LAH_Launch_Economics_v0_1.xlsx` | `9c0ad878a1ce332d932887322fc7f65ea6f81d8410f061e4e53f803f82595ac0` | Historical first range-based economics model |
-| `models/DAMB_GOOD_LAH_Launch_Economics_v0_2.xlsx` | `85b55876bdd6c5cabfdfc2e8a0eaa6bc8f29ff0b26f1c83655f36ed93fd52ce5` | Current low-price + HALAL + corporate-drop economics model |
+| `models/DAMB_GOOD_LAH_Launch_Economics_v0_2.xlsx` | `7bbcf9cdfac1e105c45c8b1b273951fec4b567c3b7b932f952c0aa059da7f902` | Current low-price + HALAL + corporate-drop economics model; includes current supplier/facility leads |
 
 ## Current canonical text sources
 
