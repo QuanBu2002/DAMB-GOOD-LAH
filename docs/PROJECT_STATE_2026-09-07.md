@@ -171,3 +171,65 @@ Direct delivery must also be treated as a density problem. Current direct-courie
 6. Confirm Snell hidden fees/storage/insurance requirements.
 7. Run 10/20/30/50-meal simulations and measure total paid person-hours + paid kitchen hours.
 8. Build direct corporate delivery/ACH flows to minimize courier and payment leakage.
+
+## Recipe Universe + crisp-hitter checkpoint — September 7, 2026
+
+Canonical recipe-universe work now includes:
+- `docs/RECIPE_UNIVERSE_v0_1.md`
+- `docs/RECIPE_UNIVERSE_DEPENDENCY_MATRIX_v0_1.md`
+- `docs/RECIPE_UNIVERSE_PROTOTYPE_RANGES_v0_1.md`
+- `docs/CRISP_HITTERS_v0_1.md`
+
+Primary operating rule: **reuse ingredients, not finished flavors.** The four flavor lanes remain distinct while upstream prep, trims, fats, oils and secondary outputs are deliberately reused when they add real value.
+
+### Canonical crisp hitters under active R&D
+
+1. **Chicken-Skin Glass** — Padang Chicken Rice. Target texture: brittle/glassy. Secondary output: rendered chicken fat for controlled CKT testing.
+2. **Beef-Fat Shallot Feather** — Padang Beef Rice. Target texture: airy/feathery. Compare 100% beef fat, 50/50 beef fat + neutral oil, and neutral-oil control.
+3. **Ikan Bilis-Peanut Crunch** — Nasi Lemak Lah. Preserve classic Malaysian identity; test bilis:peanut ratios and rinse/dry handling.
+4. **Potato Crackle** — Damb Good Mee Goreng. Highest-value hypothesis: use potato peel/trim as a crisp stream while potato interior remains the noodle-body component.
+5. **Curry Tofu Crag** — Padang Dry Curry Mee. Use the same firm-tofu SKU as Mee Goreng; test trim/off-cuts with rice-flour/cornstarch coating variants and post-fry seasoning.
+
+### Crisp-hitter execution order
+
+**Phase A — mechanics only**
+- chicken skin: pressed vs unpressed/blistered
+- shallot: beef fat vs 50/50 vs neutral oil
+- ikan bilis: rinse + thoroughly dry vs direct
+- potato: peel crackle vs interior crackle
+- tofu: uncoated vs rice flour vs rice-flour/cornstarch blends
+
+Do not complicate these first trials with elaborate seasoning. Establish the best physical process first.
+
+**Phase B — portion range**
+- chicken skin: 3 / 4 / 5 g
+- shallot: 6 / 8 / 10 g
+- ikan bilis-peanut: 20 / 22.5 / 25 g
+- potato: 8 / 10 / 12 g
+- tofu: 10 / 12 / 15 g
+
+**Phase C — delivery survival**
+Test each winning hitter at T0 / T15 / T30 directly on the meal first. Separate garnish packaging is allowed only if the quality gain clearly exceeds added packaging, labor, inventory and error burden.
+
+**Phase D — production proof**
+Graduate only after a 20-meal batch proves:
+- repeatable texture
+- measured yield
+- measured active labor
+- acceptable hold/storage behavior
+- low service-time fryer burden
+- acceptable cost/portion
+- no HALAL or food-safety control failure
+
+### Secondary-output rule
+
+When a crisp process generates a useful fat or oil, capture it as a separate measured ingredient rather than assuming it is waste. Current candidates:
+- rendered chicken fat from skin
+- rendered/shallot-infused beef fat from Beef-Fat Shallot Feather
+- ikan-bilis frying oil only if sensory testing proves it useful and clean enough to justify storage/segregation
+
+No secondary output enters another dish automatically. It must earn its place through blind sensory, cost, labor, storage and delivery testing.
+
+### Active execution tracker
+
+Use **GitHub Issue #2 — `Recipe Universe R&D — prove shared prep without flattening flavor`** as the live test queue. Crisp hitters now sit inside this recipe-universe program, not as an optional side project.
