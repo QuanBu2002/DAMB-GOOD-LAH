@@ -38,7 +38,7 @@ Best early office candidates:
 - Padang Chicken Rice
 - Nasi Lemak Lah
 - Padang Beef Rice
-- Dang Good Mee Goreng
+- Damb Good Mee Goreng
 - Roti / Padang dip
 
 CKT should remain available selectively after the wok station proves corporate-volume quality; do not bulk-cook CKT so far ahead that wok character collapses.
