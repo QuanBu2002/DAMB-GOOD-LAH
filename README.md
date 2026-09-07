@@ -21,7 +21,7 @@ This repository is the durable project archive for DAMB GOOD LAH: culinary devel
 3. **Nasi Lemak Lah — $12.95 target** — ikan bilis-peanut crunch
 
 ### Noodles
-4. **Dang Good Mee Goreng — $11.95 target** — crispy potato
+4. **Damb Good Mee Goreng — $11.95 target** — crispy potato
 5. **Padang Dry Curry Mee — $12.95 target** — curry tofu crisp
 6. **Char Kway Teow — $14.95 target** — included certified halal chicken lap cheong
 
@@ -49,6 +49,21 @@ Primary economic lanes:
 5. Low-commission marketplace discovery / overflow
 
 Large office orders should preferably be 20+ meals and can be constrained to 2-3 main choices when appropriate to create real batching savings. Discounts are justified by operational density, not simply because an order is labeled catering.
+
+## Launch kitchen strategy
+
+Primary candidate: **The Commissary, 5475 Snell Ave, San Jose**.
+
+Do not sign or pay onboarding until it passes these hard gates:
+1. HFSAA accepts the exact shared-kitchen HALAL arrangement.
+2. Raw chicken, beef and shrimp production is permitted under our operating setup.
+3. Authentic CKT can be produced repeatedly with approved high-output wok equipment.
+4. Weekday lunch-period fryer/griddle/range/prep access is reliable.
+5. All-in fees, storage and reservation terms are transparent.
+
+If Snell passes, begin on the **20-hour plan**, not unlimited. Backups are **iKitchens** first and **California Cookery** second if HALAL segregation or wok equipment makes Snell unsuitable.
+
+See `docs/KITCHEN_LAUNCH_GATE.md`.
 
 ## Operating principles already solved
 
